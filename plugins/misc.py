@@ -27,7 +27,7 @@ async def showid(client, message):
     elif chat_type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         _id = ""
         _id += (
-            "<b>➲ Chat ID</b>: "
+            "<b>➲ Chat ID </b>: "
             f"<code>{message.chat.id}</code>\n"
         )
         if message.reply_to_message:
