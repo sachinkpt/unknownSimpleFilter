@@ -11,6 +11,7 @@ You can deploy this bot anywhere.
 </p>
 </details>
 
+
 ## Commands
 ```
 • /logs - to get the rescent errors
