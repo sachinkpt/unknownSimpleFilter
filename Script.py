@@ -5,7 +5,7 @@ Yᴏᴜ  Wᴀɴᴛ 😎😎</b>"""
 
     HELP_TXT = """<b> Cʜᴇᴄᴋ Tʜᴇꜱᴇ Hᴇʟᴘ Cᴏᴍᴍᴀɴᴅs 👇.</b>"""
 
-    ABOUT_TXT = """<b><i>👨‍💻 ᴏᴡɴᴇʀ : <a href=https://t.me/Unknown_Man_On_Mission><b>ʀᴏʜᴀɴ</b></a>\n
+    ABOUT_TXT = """<b><i>👨‍💻 ᴏᴡɴᴇʀ : <a href=https://t.me/Sachinkpt><b>ʀᴏʜᴀɴ</b></a>\n
 📝 ʟᴀɴɢᴜᴀɢᴇ : <a href=https://www.python.org><b>ᴘʏᴛʜᴏɴ</b></a>\n
 📚 ʟɪʙʀᴀʀʏ : <a href=https://github.com/pyrogram/pyrogram><b>ᴘʏʀᴏɢʀᴀᴍ</b></a>\n
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : <a href=render.com><b>ʀᴇɴᴅᴇʀ</b></a>\n
@@ -15,7 +15,7 @@ Yᴏᴜ  Wᴀɴᴛ 😎😎</b>"""
     SOURCE_TXT = """<b>ᴄʀᴇᴀᴛᴇ ʏᴏᴜ ᴏᴡɴ ʙᴏᴛ ʟɪᴋᴇ ᴛʜɪs :</b>
     
 » ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ɪ ᴡɪʟʟ ɢɪᴠᴇ ʏᴏᴜ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ғᴏʀ ғʀᴇᴇ <b>
-» Contact » <a href=https://t.me/Unknown_Man_On_Mission><b>ʀᴏʜᴀɴ</b></a><b>"""
+» Contact » <a href=https://t.me/@Sachinkpt><b>ʀᴏʜᴀɴ</b></a><b>"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -168,7 +168,7 @@ If You Still Don't Get Movies then Owner Will Update Within 𝟸𝟺 Hour"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b> <a href=https://t.me/Cinema_Moviesz>{file_name}</a>
+    CAPTION = """<b> <a href=https://t.me/KPT_Movies>{file_name}</a>
 
 </b>"""
 
