@@ -67,7 +67,7 @@ READ_RULES = environ.get('READ_RULES', 'https://t.me/KPT_Movies')
 
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '')) 
 REQUEST_LOGS = int(environ.get('REQUEST_LOGS', '-1001940047255'))
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'KPT_Movies')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'KPT_Links')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
 IMDB = is_enabled((environ.get('IMDB', "False")), False)
 AUTO_FFILTER = is_enabled((environ.get('AUTO_FFILTER', "True")), True)
