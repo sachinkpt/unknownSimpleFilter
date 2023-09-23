@@ -15,7 +15,7 @@ Yᴏᴜ  Wᴀɴᴛ 😎😎</b>"""
     SOURCE_TXT = """<b>ᴄʀᴇᴀᴛᴇ ʏᴏᴜ ᴏᴡɴ ʙᴏᴛ ʟɪᴋᴇ ᴛʜɪs :</b>
     
 » ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ɪ ᴡɪʟʟ ɢɪᴠᴇ ʏᴏᴜ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ғᴏʀ ғʀᴇᴇ <b>
-» Contact » <a href=https://t.me/@Sachinkpt><b>ʀᴏʜᴀɴ</b></a><b>"""
+» Contact » <a href=https://t.me/+N8erJUkkI9dhYTU1><b>Kpt_guy</b></a><b>"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -125,9 +125,9 @@ Nᴀᴍᴇ - {}"""
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : ʀᴏʜᴀɴ
+• ꜰᴜʟʟ ɴᴀᴍᴇ : KPT guy
 • ᴜꜱᴇʀɴᴀᴍᴇ : 
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href=https://t.me/Unknown_Man_On_Mission><b>ʀᴏʜᴀɴ</b></a></b>"""
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href=https://t.me/+N8erJUkkI9dhYTU1><b>DM</b></a></b>"""
 
     REQINFO = """
 Always Request in Correct Spelling... check Spellings on Google ...
