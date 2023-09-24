@@ -65,7 +65,7 @@ MY_GRP = environ.get('MY_GRP', 'https://t.me/KPT_Discussion')
 HOW_TO_DWNLD  = environ.get('HOW_TO_DWNLD', 'https://t.me/+0WM5JrljTFsxN2E1')
 READ_RULES = environ.get('READ_RULES', 'https://t.me/KPT_Movies')
 
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '')) 
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001977576515')) 
 REQUEST_LOGS = int(environ.get('REQUEST_LOGS', '-1001940047255'))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'RMKbots')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
