@@ -168,7 +168,8 @@ If You Still Don't Get Movies then Owner Will Update Within 𝟸𝟺 Hour"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b> <a href=https://t.me/KPT_Movies>{file_name}</a>
+    CAPTION = """<b> {file_name}\n
+    Main Channel - @KPT_Movies
 
 </b>"""
 
