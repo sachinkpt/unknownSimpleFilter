@@ -105,8 +105,7 @@ Aᴅᴅᴇᴅ Bʏ - {}"""
     LOG_TEXT_P = """#NewUser
 ID - <code>{}</code>
 Nᴀᴍᴇ - {}"""
-
-     ALRT_TXT = """Hey {}, Its Not For You❗️"""
+ALRT_TXT = """Hey {}, Its Not For You❗️"""
 
     OLD_ALRT_TXT = """Hey {}, ❗Link Expired, Please Request Again ♻"""
 
