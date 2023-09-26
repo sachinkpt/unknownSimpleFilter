@@ -106,7 +106,7 @@ Aᴅᴅᴇᴅ Bʏ - {}"""
 ID - <code>{}</code>
 Nᴀᴍᴇ - {}"""
 
-    ALRT_TXT = """Hey {}, Its Not For You❗"""
+   
 
     OLD_ALRT_TXT = """Hey {}, ❗Link Expired, Please Request Again ♻"""
 
@@ -132,10 +132,10 @@ Nᴀᴍᴇ - {}"""
     REQINFO = """
 Always Request in Correct Spelling... check Spellings on Google ...
 
-Example > Vikram 2009 
+Example > Vikram 2022 
 ⊱⋅ ──────────────────── ⋅⊰
 
-If You Still Don't Get Movies then Owner Will Update Within 𝟸𝟺 Hour"""
+If You Still Don't Get Movies then Owner Will Update Within 𝟸𝟺 Hour """
 
     MINFO = """
 ⚠ How To Request Movies ⁉️ »
