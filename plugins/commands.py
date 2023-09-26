@@ -142,7 +142,14 @@ async def start(client, message):
                     file_id=msg.get("file_id"),
                     caption=f_caption,
                     protect_content=msg.get('protect', False),
-                    
+                    reply_markup=InlineKeyboardMarkup(
+                        [
+                         [
+                          InlineKeyboardButton('sᴜʙsᴄʀɪʙᴇ ', url=UPDT_CHNL)
+                         ]
+                        ]
+                    )
+                )
             except FloodWait as e:
                 await asyncio.sleep(e.x)
                 logger.warning(f"Floodwait of {e.x} sec.")
@@ -150,8 +157,14 @@ async def start(client, message):
                     chat_id=message.from_user.id,
                     file_id=msg.get("file_id"),
                     caption=f_caption,
-                    protect_content=msg.get('protect', False),
-                    
+                    reply_markup=InlineKeyboardMarkup(
+                        [
+                         [
+                          InlineKeyboardButton('sᴜʙsᴄʀɪʙᴇ ', url=UPDT_CHNL)
+                         ]
+                        ]
+                    )
+                )
             except Exception as e:
                 logger.warning(e, exc_info=True)
                 continue
@@ -212,6 +225,15 @@ async def start(client, message):
                 chat_id=message.from_user.id,
                 file_id=file_id,
                 protect_content=True if pre == 'filep' else False,
+                reply_markup=InlineKeyboardMarkup(
+                    [
+                     [
+                      InlineKeyboardButton('sᴜʙsᴄʀɪʙᴇ  ', url=UPDT_CHNL)
+                     ]
+                    ]
+                )
+            )
+            filetype = msg.media
                 
             filetype = msg.media
             file = getattr(msg, filetype.value)
@@ -245,7 +267,14 @@ async def start(client, message):
         file_id=file_id,
         caption=f_caption,
         protect_content=True if pre == 'filep' else False,       
-                    
+        reply_markup=InlineKeyboardMarkup(
+            [
+             [
+              InlineKeyboardButton('sᴜʙsᴄʀɪʙᴇ', url=UPDT_CHNL)
+             ]
+            ]
+        )
+    )            
 
 @Client.on_message(filters.command('channel') & filters.user(ADMINS))
 async def channel_info(bot, message):
