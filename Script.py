@@ -106,7 +106,7 @@ Aᴅᴅᴇᴅ Bʏ - {}"""
 ID - <code>{}</code>
 Nᴀᴍᴇ - {}"""
 
-   
+   ALRT_TXT = """Hey {}, Its Not For You❗️"""
 
     OLD_ALRT_TXT = """Hey {}, ❗Link Expired, Please Request Again ♻"""
 
