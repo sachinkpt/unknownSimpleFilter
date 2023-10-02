@@ -62,7 +62,7 @@ MSG_ALRT = environ.get('MSG_ALRT', 'Join Channels Also ')
 UPDT_CHNL = environ.get('UPDT_CHNL', 'https://t.me/KPT_Movies')
 MY_CHNL = environ.get('MY_CHNL', 'https://t.me/KPT_Discussion')
 MY_GRP = environ.get('MY_GRP', 'https://t.me/KPT_Movies')
-HOW_TO_DWNLD  = environ.get('HOW_TO_DWNLD', 'https://t.me/+0WM5JrljTFsxN2E1')
+HOW_TO_DWNLD  = environ.get('HOW_TO_DWNLD', 'https://t.me/how_to_download_kpt')
 READ_RULES = environ.get('READ_RULES', 'https://t.me/KPT_Movies')
 
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001977576515')) 
